@@ -1,7 +1,7 @@
 ## DeepCoNN for Yelp Review Rating Prediction
 
 An implementation of the model in [*Lei Zheng, Vahid Noroozi, and Philip S Yu. 2017. Joint deep modeling of users and items using reviews for recommendation*](https://arxiv.org/abs/1701.04783) 
-on the Yelp Review dataset
+on the [Yelp Review dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset/data)
 
 ## Architecture
 
