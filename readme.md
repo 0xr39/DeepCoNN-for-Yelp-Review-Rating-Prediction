@@ -9,5 +9,5 @@ The model, in short, process the user review text data and the item review text 
 
 ![architecture](https://github.com/ALEXdotR/DeepCoNN-for-Yelp-Review-Rating-Prediction/assets/72406898/1fa2c75e-05a4-4286-b9b4-c56313d25974)
 
-*Zheng, Noroozi, et. al., 2017*
+*Zheng, Noroozi, and Yu, 2017*
 
